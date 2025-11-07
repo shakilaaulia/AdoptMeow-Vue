@@ -1,6 +1,6 @@
 <template>
   <aside class="sidebar">
-    <div class="sidebar-header">LOGO SHELTER</div>
+    <div class="sidebar-header">AdoptMeow</div>
     <nav>
       <h3>Menu Utama Shelter</h3>
       <ul>
