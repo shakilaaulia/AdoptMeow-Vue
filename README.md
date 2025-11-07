@@ -70,4 +70,6 @@
   Tombol keluar dari aplikasi.
 
   (untuk saat ini belum bisa diakses karena back-endnya belum dibuat)
-  
+
+  Dokumentasi front-end dari chat & profil
+  ![profil_chat](https://github.com/user-attachments/assets/090f5dbd-b525-4ff0-88de-ae2e10da7300)
