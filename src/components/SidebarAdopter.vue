@@ -1,7 +1,7 @@
 <template>
   <aside class="sidebar">
         <div class="sidebar-header">
-            LOGO
+            AdoptMeow
         </div>
         <nav>
             <h3>Fitur Utama</h3>
