@@ -1,44 +1,73 @@
-# AdoptMeow-Vue
+# Kelompok 27 
+## Anggota : 
+- Shakila Aulia Nurrul Rohman (2403086)
+- Nisrina Safinatunnajah (2410093)
+- Rifky Fadhillah Akbar (2401248)
+- Rafi Subqhi Nuraziz (2408678)
 
-This template should help get you started developing with Vue 3 in Vite.
+# Penjelasan
 
-## Recommended IDE Setup
+- Login: Masukkan email & kata sandi.
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- Registrasi: Isi email, nama, no telepon, kata sandi & konfirmasi.
 
-## Recommended Browser Setup
+  Setelah daftar langsung masuk ke aplikasi utama.
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) 
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+- Beranda: Tampilan utama berisi poin adopsi, lapor, donasi, daftar & status kucing.
 
-## Customize configuration
+- Lapor Kucing:
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+    Fitur untuk melaporkan kucing terlantar.
 
-## Project Setup
+    Tersedia tombol “Laporan” untuk menambahkan data baru.
 
-```sh
-npm install
-```
+    Pengguna mengisi informasi kucing (lokasi, kondisi, deskripsi singkat) dan mengunggah foto bukti.
 
-### Compile and Hot-Reload for Development
+    Laporan yang sudah dikirim akan muncul di daftar laporan pengguna.
 
-```sh
-npm run dev
-```
+- Adopsi:
 
-### Compile and Minify for Production
+    Lihat daftar kucing siap adopsi & deskripsinya.
 
-```sh
-npm run build
-```
+    Isi formulir adopsi (alasan & kesiapan).
 
-### Lint with [ESLint](https://eslint.org/)
+    setelah diajukan, ada verifikasi, lalu status “berhasil mengadopsi”.
 
-```sh
-npm run lint
-```
+- Donasi:
+
+  Lihat deskripsi program donasi (misalnya pakan atau pengobatan).
+
+  Isi form pembayaran (nama, no hp, metode pembayaran).
+
+- Peringkat:
+
+  Menampilkan pengguna dengan kontribusi Poin tertinggi.
+
+  Poin dapat di dapatkan dengan cara berdonasi, Adopsi, Lapor. 
+
+  Mendorong semangat untuk terus membantu kucing.
+
+- Rawat Kucing:
+
+  Membuat pengingat untuk merawat kucing (makan, mandi, kontrol dokter, dll).
+
+  Menampilkan aktivitas kucing seperti jadwal vaksin atau pemeriksaan.
+
+  Aktivitas Kucing (Shelter):
+
+  Shelter bisa menambahkan jadwal aktivitas, vaksinasi, atau kontrol dokter.
+
+- Inbox Shelter & Adopter
+
+  Chat antara adopter dan shelter
+  
+  (untuk saat ini belum bisa diakses karena back-endnya belum dibuat)
+
+- Profil & Keluar:
+
+  Mengatur data akun pengguna.
+
+  Tombol keluar dari aplikasi.
+
+  (untuk saat ini belum bisa diakses karena back-endnya belum dibuat)
+  
